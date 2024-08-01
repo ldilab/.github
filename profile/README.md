@@ -3,6 +3,8 @@
 ### [to Official Webpage](http://ldi.snu.ac.kr)
 
 
+thanks to @romsto for building the astonishing logo and webpage! 😊
+
 <!--
 
 **Here are some ideas to get you started:**
