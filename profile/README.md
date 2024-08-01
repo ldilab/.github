@@ -3,7 +3,7 @@
 ### [to Official Webpage](http://ldi.snu.ac.kr)
 
 
-thanks to @romsto for building the astonishing logo and webpage! 😊
+thanks to [@romsto](https://github.com/romsto) for building the astonishing logo and webpage! 😊
 
 <!--
 
