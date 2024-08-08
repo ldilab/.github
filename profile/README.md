@@ -2,6 +2,8 @@
 
 ### [to Official Webpage](http://ldi.snu.ac.kr)
 
+### [to HuggingFace](https://huggingface.co/organizations/LDI-lab/)
+
 
 thanks to [@romsto](https://github.com/romsto) for building the astonishing logo and webpage! 😊
 
